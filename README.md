@@ -1,7 +1,7 @@
 
 
-# NekoMenfess
-<p align="center"><img src="https://telegra.ph/file/2d46007dd7d22645c4ec3.jpg" alt="ICON" width="150" height="150"></p>
+# CariPartnerFwb
+<p align="center"><img src="https://telegra.ph/cpt-09-17" alt="ICON" width="150" height="150"></p>
 
 <div align="center">
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
