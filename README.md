@@ -3,18 +3,6 @@
 # CariPartnerFwb
 <p align="center"><img src="https://telegra.ph//file/3c1e93865bddbda50f2ce.jpg" alt="ICON" width="150" height="150"></p>
 
-<div align="center">
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-</div>
-<div align="center">
-<img alt="Heroku" src="https://img.shields.io/badge/Heroku-purple?&style=for-the-badge&logoColor=white&logo=heroku"/>
-<img alt="Telegram" src="https://img.shields.io/badge/Telegram-blue?&style=for-the-badge&logoColor=white&logo=telegram"/>
-</div>
-━━━━━━━━━━━━━━━━━━━━
-
- 
 ### Installation
 
 <details>
