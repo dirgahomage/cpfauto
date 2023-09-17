@@ -15,7 +15,7 @@ async def start_handler(client: Client, msg: types.Message):
     username = (
         f'@{msg.from_user.username}'
         if msg.from_user.username
-        else '@OwnNeko'
+        else '@othentix'
     )
     mention = msg.from_user.mention
     await msg.reply_text(
@@ -108,7 +108,7 @@ async def gagal_kirim_handler(client: Client, msg: types.Message):
     username = (
         f'@{msg.from_user.username}'
         if msg.from_user.username
-        else '@OwnNeko'
+        else '@othentix'
     )
     mention = msg.from_user.mention
     return await msg.reply(config.gagalkirim_msg.format(
