@@ -6,8 +6,8 @@
     "menfess",
     "fwb"
   ],
-  "repository": "https://github.com/nekolocal/nekomenfess/tree/main",
-  "logo": "https://telegra.ph/file/2d46007dd7d22645c4ec3.jpg",
+  "repository": "https://github.com/dirgahomage/cpfauto",
+  "logo": "https://telegra.ph//file/3c1e93865bddbda50f2ce.jpg",
   "env": {
     "BOT_TOKEN": {
       "description": "Masukkan token bot kamu, didapatkan dari @Botfather",
@@ -49,90 +49,13 @@
       "description": "Batas kirim menfess per hari",
       "value": "5"
     },
-    "BATAS_TALENT": {
-      "description": "Batas top talent",
-      "value": "10"
-    },
-    "BATAS_DADDY_SUGAR": {
-      "description": "Batas top daddy sugar",
-      "value": "10"
-    },
-    "BATAS_MOANSGIRL": {
-      "description": "Batas top moans girl",
-      "value": "10"
-    },
-    "BATAS_MOANSBOY": {
-      "description": "Batas top moans boy",
-      "value": "10"
-    },
-    "BATAS_GFRENT": {
-      "description": "Batas top girlfriend rent",
-      "value": "10"
-    },
-    "BATAS_BFRENT": {
-      "description": "Batas top boyfriend rent",
-      "value": "10"
-    },
     "BIAYA_KIRIM": {
       "description": "Biaya kirim user menfess",
       "value": "10"
     },
-    "BIAYA_TALENT": {
-      "description": "Biaya rating user ke talent FWB",
-      "value": "80"
-    },
-    "BIAYA_DADDY_SUGAR": {
-      "description": "Biaya rating user ke daddy sugar FWB",
-      "value": "50"
-    },
-    "BIAYA_MOANSGIRL": {
-      "description": "Biaya rating user ke moans girl FWB",
-      "value": "40"
-    },
-    "BIAYA_MOANSBOY": {
-      "description": "Biaya rating user ke moans boy FWB",
-      "value": "50"
-    },
-    "BIAYA_GFRENT": {
-      "description": "Biaya rating user ke girl friend rent FWB",
-      "value": "40"
-    },
-    "BIAYA_BFRENT": {
-      "description": "Biaya rating user ke boy friend rent FWB",
-      "value": "50"
-    },
     "HASTAG": {
-      "description": "Menambahkan hastag, dipisahkan dengan spasi (#nekogirl wajib di awal dan #nekoboy setelah nekogirl)",
-      "value": "#NekoGirl #NekoBoy #NekoAsk #NekoFind #NekoSpill #NekoStory"
-    },
-    "PIC_BOY": {
-      "description": "Gambar FWB boy",
-      "value": "https://telegra.ph/file/387bdabb03deaf94fa4e9.jpg"
-    },
-    "PIC_TALENTGIRL": {
-      "value": "https://telegra.ph/file/95801451d752f089f8e1e.jpg"
-    },
-    "PIC_GIRL": {
-      "description": "Gambar FWB girl",
-      "value": "https://telegra.ph/file/2bc2dc1fad8e33cf69e6d.jpg"
-    },
-    "PIC_DADDYSUGAR": {
-      "value": "https://telegra.ph/file/14ca710511333621be61d.jpg"
-    },
-    "PIC_MOANSGIRL": {
-      "value": "https://telegra.ph/file/10232ac2404b3e822f99d.jpg"
-    },
-    "PIC_MOANSBOY": {
-      "value": "https://telegra.ph/file/90359cf42550732058d20.jpg"
-    },
-    "PIC_GFRENT": {
-      "value": "https://telegra.ph/file/432e8cb26179ade6eba70.jpg"
-    },
-    "PIC_BFRENT": {
-      "value": "https://telegra.ph/file/e0dc732430d9b1b0cbfa1.jpg"
-    },
-    "PIC_OWNER": {
-      "value": "https://telegra.ph/file/f58b957f34a978524f07a.jpg"
+      "description": "Menambahkan hastag, dipisahkan dengan spasi (#girl wajib di awal dan #boy setelah girl)",
+      "value": "#Girl #Boy #Ask #Story"
     },
     "PESAN_JOIN": {
       "description": "Pesan join grup, atau akses ditolak",
@@ -144,7 +67,7 @@
     },
     "GAGAL_KIRIM": {
       "description": "Pesan ketika hastag yang diketik tidak sesuai",
-      "value": "{mention}, pesanmu gagal terkirim. Silahkan gunakan hastag:\n\n#NekoBoy / #NekoGirl untuk Mencari Pasangan, Teman, Partner dll\n#NekoAsk untuk Bertanya\n#NekoStory untuk Berbagi Cerita\n#NekoSpill untuk Spill Masalah\n#NekoFind untuk Mencari Pasangan, Teman, Partner dll"
+      "value": "{mention}, pesanmu gagal terkirim. Silahkan gunakan hastag:\n\n#Boy / #Girl untuk Mencari Pasangan, Teman, Partner dll\n#Ask untuk Bertanya\n#Story untuk Berbagi Cerita\n"
     }
   },
   "addons": [
