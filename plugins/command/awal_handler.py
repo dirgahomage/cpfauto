@@ -118,14 +118,8 @@ async def help_handler(client, msg):
     db = Database(msg.from_user.id)
     member = db.get_data_pelanggan()
 
-    pesan = "Supported commands\n" + '/status — melihat status\n'
+    pesan = "untuk mengirim pesan, harap gunakan hastag\n"
     pesan += '#NekoBoy / #NekoGirl untuk Mencari Pasangan,Teman , Partner dll #NekoAsk untuk Bertanya #NekoStory untuk Berbagi Cerita #NekoSpill untuk Spill Masalah #NekoFind untuk Mencari Pasangan, Teman, Partner dll'
-
-    # Tambahkan InlineKeyboardButton "JASA" di sini
-    keyboard = [
-        [InlineKeyboardButton("JASA", callback_data="jasa")],
-    ]
-    reply_markup = InlineKeyboardMarkup(keyboard)
 
     if member.status == 'admin':
         pesan += '\nHanya Admin\n'
