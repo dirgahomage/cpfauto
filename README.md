@@ -40,7 +40,7 @@ pip install -r requirements.txt
 Lalu
 
 ````bash
-screen -S cpfmenfess
+screen -S cpfauto
 
 ````
 
