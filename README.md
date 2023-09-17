@@ -29,7 +29,7 @@
 ### Eksekusi
 Pertama Salin Kode Dibawah dan Tempel di Vps Kalian.. Tunggu Hingga Proses Selesai
 ````bash
-git clone https://github.com/dirgahomage/cptmenfess && cd cptmenfess
+git clone https://github.com/dirgahomage/cpfauto  && cd cpfauto
 ````
 Jika Sudah Selesai,Salin Kode Dibawah dan Tempel di Vps
 
@@ -40,7 +40,7 @@ pip install -r requirements.txt
 Lalu
 
 ````bash
-screen -S cptmenfess
+screen -S cpfmenfess
 
 ````
 
