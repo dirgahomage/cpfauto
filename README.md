@@ -6,9 +6,9 @@
 ### Installation
 
 <details>
-<summary><b>🔗 Deploy on Heroku</b></summary> <br>
+<summary><b>🔗 Owner</b></summary> <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nekolocal/nekomenfess)</br>
+[![Telegram](https://t.me/othentix)</br>
 </details>
 
 <details>
@@ -35,7 +35,7 @@
 ### Eksekusi
 Pertama Salin Kode Dibawah dan Tempel di Vps Kalian.. Tunggu Hingga Proses Selesai
 ````bash
-git clone https://github.com/nekolocal/nekomenfess && cd nekomenfess
+git clone https://github.com/dirgahomage/cptmenfess && cd cptmenfess
 ````
 Jika Sudah Selesai,Salin Kode Dibawah dan Tempel di Vps
 
@@ -46,7 +46,7 @@ pip install -r requirements.txt
 Lalu
 
 ````bash
-screen -S nekomenfess
+screen -S cptmenfess
 
 ````
 
