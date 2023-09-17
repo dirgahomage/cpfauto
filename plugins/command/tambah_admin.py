@@ -29,8 +29,7 @@ async def tambah_admin_handler(client: Client, msg: types.Message):
             parse_mode=enums.ParseMode.HTML
         )
     status = [
-        'admin', 'owner', 'talent', 'daddy sugar', 'moans girl',
-        'moans boy', 'girlfriend rent', 'boyfriend rent'
+        'admin'
     ]
     member = db.get_data_pelanggan()
     if member.status in status:
@@ -71,8 +70,7 @@ async def hapus_admin_handler(client: Client, msg: types.Message):
                 parse_mode=enums.ParseMode.HTML
             )
         status = [
-            'owner', 'talent', 'daddy sugar', 'moans girl',
-            'moans boy', 'girlfriend rent', 'boyfriend rent'
+            'owner'
         ]
         member = db.get_data_pelanggan()
         if member.status in status:
