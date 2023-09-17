@@ -6,12 +6,6 @@
 ### Installation
 
 <details>
-<summary><b>🔗 Owner</b></summary> <br>
-
-[![Telegram](https://t.me/othentix)</br>
-</details>
-
-<details>
 <summary><b>🔗 Deploy di Railway</b></summary>
 <br>
 
